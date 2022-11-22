@@ -1,6 +1,4 @@
-# connection
-
-![KakaoTalk_20221122_161328862](https://user-images.githubusercontent.com/82570138/203249077-b1bea710-d41b-439a-91b5-8e2f0da8f702.jpg)
+<img src="https://user-images.githubusercontent.com/82570138/203249278-2834d6bb-fa4f-4e72-b112-c58643f7aed6.png" height="60" width="250">
 
 - 진행 기간 : 2022.10.11 ~ 2022.11.21 (6주간) <br/>
 - 서비스 명 : connection (code + connection)
@@ -58,7 +56,7 @@
 
 -[ UCC 영상 주소 ](https://youtu.be/EiZpYU6N9RY)<br>
 
-<br/><br/>
+<br/>
 ##  주요기능 및 페이지 구성
 
 ### **메인페이지**
