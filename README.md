@@ -11,7 +11,7 @@
 
 |Back-End|Back-End|Back-end|Front-End|Front-End|Front-End|
 |-|-|-|-|-|-|
-| <img src="/uploads/e2b9631cd6614ae5d0a7d13dc257349f/KakaoTalk_Photo_2022-11-21-11-29-09.jpeg" width="150" height="180"/> | <img src="/uploads/f9b17ea2f5607256188ab76521ea96f2/KakaoTalk_Photo_2022-11-21-11-28-13.jpeg" width="150" height="180"/> | <img src="/uploads/f8b437b9d8e8b4d0ffe461d4c3691a58/KakaoTalk_Photo_2022-11-21-11-28-43.jpeg" width="150" height="180"/> | <img src="/uploads/f495d5f65cfb523eeb7a63bd0ba7c76f/beauty_1662207811715.jpeg" width="150" height="180"/> | <img src="/uploads/ef6cfd61c241945e6e5aa826c81051ff/KakaoTalk_Photo_2022-11-21-11-28-54.png" width="150" height="180"/> | <img src="/uploads/777f6ea307713e5b2948cc25d23cf46f/KakaoTalk_Photo_2022-11-21-11-28-40.jpeg" width="150" height="180"/> 
+| <img src="https://user-images.githubusercontent.com/82570138/203187368-0b1d23ac-39f3-44cc-8499-3308f13fef7f.png" width="150" height="180"/> | <img src="/uploads/f9b17ea2f5607256188ab76521ea96f2/KakaoTalk_Photo_2022-11-21-11-28-13.jpeg" width="150" height="180"/> | <img src="/uploads/f8b437b9d8e8b4d0ffe461d4c3691a58/KakaoTalk_Photo_2022-11-21-11-28-43.jpeg" width="150" height="180"/> | <img src="/uploads/f495d5f65cfb523eeb7a63bd0ba7c76f/beauty_1662207811715.jpeg" width="150" height="180"/> | <img src="/uploads/ef6cfd61c241945e6e5aa826c81051ff/KakaoTalk_Photo_2022-11-21-11-28-54.png" width="150" height="180"/> | <img src="/uploads/777f6ea307713e5b2948cc25d23cf46f/KakaoTalk_Photo_2022-11-21-11-28-40.jpeg" width="150" height="180"/> 
 | 김준우(팀장)|김우건(팀원)|이기영(팀원)|김윤민(팀원)|염진호(팀원)|최진합(팀원)|
 <br/>
 
