@@ -11,7 +11,7 @@
 
 |Back-End|Back-End|Back-end|Front-End|Front-End|Front-End|
 |-|-|-|-|-|-|
-| <img src="https://user-images.githubusercontent.com/82570138/203187368-0b1d23ac-39f3-44cc-8499-3308f13fef7f.png" width="150" heigt5="180"/> | <img src="/uploads/f9b17ea2f5607256188ab76521ea96f2/KakaoTalk_Photo_2022-11-21-11-28-13.jpeg" width="150" height="180"/> | <img src="/uploads/f8b437b9d8e8b4d0ffe461d4c3691a58/KakaoTalk_Photo_2022-11-21-11-28-43.jpeg" width="150" height="180"/> | <img src="/uploads/f495d5f65cfb523eeb7a63bd0ba7c76f/beauty_1662207811715.jpeg" width="150" height="180"/> | <img src="/uploads/ef6cfd61c241945e6e5aa826c81051ff/KakaoTalk_Photo_2022-11-21-11-28-54.png" width="150" height="180"/> | <img src="/uploads/777f6ea307713e5b2948cc25d23cf46f/KakaoTalk_Photo_2022-11-21-11-28-40.jpeg" width="150" height="180"/> 
+| <img src="https://user-images.githubusercontent.com/82570138/203187368-0b1d23ac-39f3-44cc-8499-3308f13fef7f.png" width="150" heigt5="180"/> | <img src="https://user-images.githubusercontent.com/82570138/203234711-e05c83ef-e790-4808-b638-f76da9f19956.jpeg" width="150" height="180"/> | <img src="https://user-images.githubusercontent.com/82570138/203234724-f3b02d1b-06a7-4e9a-af17-f354fd13eef3.jpeg" width="150" height="180"/> | <img src="https://user-images.githubusercontent.com/82570138/203234729-bddbdee3-0f35-4cb3-9a1d-b03e9b5e35df.jpeg" width="150" height="180"/> | <img src="https://user-images.githubusercontent.com/82570138/203234733-f370d2d7-21dc-417d-b177-0780dc0edcec.png" width="150" height="180"/> | <img src="https://user-images.githubusercontent.com/82570138/203234738-c0de1cc5-2e70-4b46-a2b6-17553ddc6b83.jpeg" width="150" height="180"/> 
 | 김준우(팀장)|김우건(팀원)|이기영(팀원)|김윤민(팀원)|염진호(팀원)|최진합(팀원)|
 <br/>
 
@@ -67,7 +67,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203188909-5f9bcc54-e281-4e89-a76a-b148f1616ffe.png" width="80%">
+<img src="" width="80%">
 
 ### **문제 추천페이지**
 
@@ -76,7 +76,7 @@
 ```
 
 <br>
-<img src="(https://user-images.githubusercontent.com/82570138/203189005-e96fb6f5-46be-4d58-a0a9-4663a12b3437.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234477-668f34df-77b4-484a-8acf-fe0aa9aed375.gif" width="80%">
 
 ### **스터디 참가 및 생성**
 
@@ -85,7 +85,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189076-a1dd5903-fe2b-4f29-b8df-dfc4d47891ba.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234321-cf1ba836-e9c4-4889-ab6f-670ddc9cbcc8.gif" width="80%">
 
 
 ### **스터디 관리페이지**
@@ -95,7 +95,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189142-e9d3c6d3-da05-4734-80b2-52fa468f12ac.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234097-5cd7ac39-95f1-4b6d-b9aa-49c86ec2c599.gif" width="80%">
 
 ### **스터디 - 문제집 페이지**
 
@@ -104,7 +104,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189177-2deeb776-ee02-4654-a72f-2c3f9cacb53c.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203233786-8b33e6b4-65be-4477-8aac-d158dc1e159b.gif" width="80%">
 
 ### **스터디 - 챌린지**
 
@@ -113,7 +113,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189235-95c2158e-7fe9-400b-90bc-58f920ca7c5e.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234419-2de689c7-6040-4139-85a7-6dc425e49516.gif" width="80%">
 
 ### **문제풀기**
 
@@ -122,7 +122,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189304-4fc4c4f6-a4a7-4c2a-bf80-bb7d8a9b9182.png" width="80%">
+<img src="" width="80%">
 
 ### **리뷰**
 
@@ -131,7 +131,7 @@
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189466-6be56898-f788-4b61-81a0-3b8774e33e7d.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234006-e35a2453-9e8b-45ad-ac33-c8dac0a6acea.gif" width="80%">
 
 ### **Github 연동**
 
@@ -140,7 +140,7 @@ Github연동 기능이에요. 확장프로그램을 사용해서 자동으로 �
 ```
 
 <br>
-<img src="https://user-images.githubusercontent.com/82570138/203189369-482004c2-3ba7-43b6-9516-0d36577149b3.png" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203234229-f251a938-ea4c-4c61-8129-1198ea09f6e1.gif" width="80%">
 
 ##  산출물
 
