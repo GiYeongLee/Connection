@@ -67,7 +67,7 @@
 ```
 
 <br>
-<img src="/uploads/b181d83f5072829a59c35e469e57c708/화면_기록_2022-11-21_오전_11.58.40.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203188909-5f9bcc54-e281-4e89-a76a-b148f1616ffe.png" width="80%">
 
 ### **문제 추천페이지**
 
@@ -76,7 +76,7 @@
 ```
 
 <br>
-<img src="/uploads/6388ab62c1461b33a8845249cc84b2e3/problemRecommend.gif" width="80%">
+<img src="(https://user-images.githubusercontent.com/82570138/203189005-e96fb6f5-46be-4d58-a0a9-4663a12b3437.png" width="80%">
 
 ### **스터디 참가 및 생성**
 
@@ -85,7 +85,7 @@
 ```
 
 <br>
-<img src="/uploads/03eacb3bb7685c3b0cd23f88fe7cdc53/studyCreate.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189076-a1dd5903-fe2b-4f29-b8df-dfc4d47891ba.png" width="80%">
 
 
 ### **스터디 관리페이지**
@@ -95,7 +95,7 @@
 ```
 
 <br>
-<img src="/uploads/84beaf37bdafa8833cba1edcc8b62d00/studyTotal.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189142-e9d3c6d3-da05-4734-80b2-52fa468f12ac.png" width="80%">
 
 ### **스터디 - 문제집 페이지**
 
@@ -104,7 +104,7 @@
 ```
 
 <br>
-<img src="/uploads/8d881d039e91c31eb21b3d1707cee266/studyNotes.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189177-2deeb776-ee02-4654-a72f-2c3f9cacb53c.png" width="80%">
 
 ### **스터디 - 챌린지**
 
@@ -113,7 +113,7 @@
 ```
 
 <br>
-<img src="/uploads/d3c39f852552deb0c5dfddf3b87d72cf/challenge.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189235-95c2158e-7fe9-400b-90bc-58f920ca7c5e.png" width="80%">
 
 ### **문제풀기**
 
@@ -122,7 +122,7 @@
 ```
 
 <br>
-<img src="/uploads/724fbab966c4375f7403764f0126ee14/문제풀기_.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189304-4fc4c4f6-a4a7-4c2a-bf80-bb7d8a9b9182.png" width="80%">
 
 ### **리뷰**
 
@@ -131,7 +131,7 @@
 ```
 
 <br>
-<img src="/uploads/ef0c9b60920fdd8926d28a0a83aab30b/review.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189466-6be56898-f788-4b61-81a0-3b8774e33e7d.png" width="80%">
 
 ### **Github 연동**
 
@@ -140,7 +140,7 @@ Github연동 기능이에요. 확장프로그램을 사용해서 자동으로 �
 ```
 
 <br>
-<img src="/uploads/4c4009d4d1be498e30f0deebff8f30bc/github.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203189369-482004c2-3ba7-43b6-9516-0d36577149b3.png" width="80%">
 
 ##  산출물
 
