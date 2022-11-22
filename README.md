@@ -41,7 +41,7 @@
 <br/>
 
 ### 실제 설문조사 결과
-![image]([/uploads/475fcf9da5abbcc4ed421a95998a5351/image.png](https://user-images.githubusercontent.com/82570138/203187170-f76e5ae6-5100-40bd-8f4f-1d55251ab972.png))
+![image](https://user-images.githubusercontent.com/82570138/203187170-f76e5ae6-5100-40bd-8f4f-1d55251ab972.png)
 
 
 
