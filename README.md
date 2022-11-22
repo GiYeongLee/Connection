@@ -1,5 +1,7 @@
 # connection
 
+![image](https://user-images.githubusercontent.com/82570138/203248102-a6fbdd31-faf1-4d0d-a577-6a3c4aa0996a.png)
+
 - 진행 기간 : 2022.10.11 ~ 2022.11.21 (6주간) <br/>
 - 서비스 명 : connection (code + connection)
 
@@ -67,7 +69,7 @@
 ```
 
 <br>
-<img src="" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203247104-c2c2d963-34f7-4f9d-a7e5-3dfb7e9c519c.gif" width="80%">
 
 ### **문제 추천페이지**
 
@@ -122,7 +124,7 @@
 ```
 
 <br>
-<img src="" width="80%">
+<img src="https://user-images.githubusercontent.com/82570138/203248195-fcf79c25-bf99-4ea6-b764-00f2063b3c11.gif" width="80%">
 
 ### **리뷰**
 
