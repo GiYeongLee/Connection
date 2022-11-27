@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/82570138/203487123-7555bd60-f646-4b22-ae23-c11120ac2fa9.png)
+![KakaoTalk_20221125_132353094](https://user-images.githubusercontent.com/82570138/204154876-633e0000-56f0-468c-9213-20f089ffd5c1.jpg)
 
 - 진행 기간 : 2022.10.11 ~ 2022.11.21 (6주간) <br/>
 - 서비스 명 : connection (code + connection)
